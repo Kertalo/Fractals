@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hard Lab 5", "Hard Lab 5.csproj", "{2C154FDD-283E-40A6-B43B-0AD4380F9C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C154FDD-283E-40A6-B43B-0AD4380F9C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C154FDD-283E-40A6-B43B-0AD4380F9C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C154FDD-283E-40A6-B43B-0AD4380F9C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C154FDD-283E-40A6-B43B-0AD4380F9C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB307F28-2930-42B3-92EF-90E84DA6D9F9}
+	EndGlobalSection
+EndGlobal
